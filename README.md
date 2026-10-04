@@ -1,4 +1,4 @@
- Assignment #3 — Responsive Web Design
+ Assignment 3 — Responsive Web Design
 
 Name: Abdul mobin Rahmani  
 Group: IT-2503
